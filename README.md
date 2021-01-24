@@ -1,10 +1,12 @@
 ﻿# 👣 **Awesome Alexa skills**
 ### 🧐 A collection of super-cool Amazon Alexa skills for starters!! ✨
+<div align='center'><p align="center"><img src="https://i.ibb.co/k55Sb6D/t.gif" alt="t" border="0"></p></div>
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
+
 
 
 
@@ -35,7 +37,7 @@ You'll find all the skills on your Alexa app. If you're looking for the EDF Ener
       (git clone https://github.com/<your-github-username>/garimasingh128/Alexa-skills-starters)
 ```    
 
-
+### Make all PRs to _develop_ branch only!!! :)
 
 >## 💻&nbsp; System Requirements
 -  Git
